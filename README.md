@@ -2,7 +2,7 @@ This repository contains the dataset collection pipeline for the paper "Ranking 
 
 The `dataset` directory contains the collected URLs for each product category (`latest.csv`) along with URLs from various stages of processing.
 
-The final dataset used in the experiments is a curated subset with exactly 8 pages per product category. It is included in the [main experimental repository](https://github.com/spfrommer/ranking_manipulation).
+The final dataset used in the experiments is a curated subset with exactly 8 pages per product category. Please see the [main experimental repository](https://github.com/spfrommer/ranking_manipulation) for access instructions.
 
 
 Required packages:
