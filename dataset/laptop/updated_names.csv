@@ -1,0 +1,34 @@
+Product,Brand,Model,URL
+laptop,Acer,Aspire 5,https://www.acer.com/us-en/laptops/aspire/aspire-5-intel
+laptop,Acer,Swift 3 (2022),https://www.acer.com/us-en/laptops/swift/swift-3-intel
+laptop,Acer,Predator Helios 300,https://www.acer.com/us-en/predator/laptops/helios/helios-300
+laptop,Asus,ZenBook 14 UX425,https://www.asus.com/laptops/for-home/zenbook/zenbook-14-ux425-11th-gen-intel/
+laptop,Asus,ROG Strix G15 G513,https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-series/
+laptop,Asus,Zenbook DUO 14 (2024) UX8406,https://www.asus.com/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/
+laptop,Apple,MacBook Air,https://www.apple.com/shop/buy-mac/macbook-air
+laptop,Apple,MacBook Pro,https://www.apple.com/shop/buy-mac/macbook-pro
+laptop,MSI,GS76 Stealth 11UX,https://us.msi.com/Laptop/GS76-Stealth-11UX/Specification
+laptop,MSI,GT76 Titan,https://www.msi.com/Laptop/GT76-Titan-9SX/Specification
+laptop,MSI,Prestige 13 AI Evo A1MX,https://www.msi.com/Business-Productivity/Prestige-13-AI-Evo-A1MX
+laptop,Samsung,Galaxy Book Pro,https://www.samsung.com/us/app/computing/galaxy-book-pro/
+laptop,LG,16Z90R K.AAS8U1,https://www.lg.com/us/laptops/lg-16z90r-k.aas8u1-gram-laptop
+laptop,LG,14Z90R K.ARW5U1,https://www.lg.com/us/laptops/lg-14z90r-k.arw5u1-gram-laptop
+laptop,Razer,Razer Blade 15,https://www.razer.com/gaming-laptops/razer-blade-15
+laptop,Razer,Razer Blade Stealth 13,https://www.razer.com/gaming-laptops/razer-blade-stealth
+laptop,Razer,Razer Blade 17 Pro,https://www.razer.com/gaming-laptops/razer-blade-17
+laptop,Toshiba,Tecra A50-J,https://us.dynabook.com/computers/laptops/tecra/A50/A50-J-BTO
+laptop,Toshiba,Portégé X30L,https://us.dynabook.com/computers-tablets/laptops/portege/x30l
+laptop,Toshiba,Satellite Pro C40 K14250,https://us.dynabook.com/computers/laptops/satellitepro/C40/C40-K14250
+laptop,Fujitsu,Lifebook U9311X,https://www.fujitsu.com/id/products/computing/pc/ap/notebooks/lifebook-u9311x/
+laptop,Fujitsu,LIFEBOOK U7310,https://www.fujitsu.com/id/products/computing/pc/ap/notebooks/lifebook-u7310/
+laptop,Panasonic,Toughbook 33,https://na.panasonic.com/us/computers-tablets/computers/2-1s/toughbook-33
+laptop,Panasonic,Toughbook 55,https://na.panasonic.com/us/computers-tablets/computers/laptops/toughbook-55
+laptop,Panasonic,Toughbook G2,https://na.panasonic.com/us/computers-tablets/computers/2-1s/toughbook-g2
+laptop,Gigabyte,AERO 15,https://www.gigabyte.com/Laptop/AERO-15--Intel-10th-Gen#kf
+laptop,Gigabyte,AORUS 15G,https://www.gigabyte.com/Laptop/AORUS-15G--Intel-10th-Gen#kf
+laptop,Gigabyte,G5,https://www.gigabyte.com/Laptop/G5--Intel-11th-Gen#kf
+laptop,Huawei,MateBook 14,https://consumer.huawei.com/en/laptops/matebook-14-2021/
+laptop,Purism,Librem 14,https://puri.sm/products/librem-14/
+laptop,Purism,Librem Mini,https://puri.sm/products/librem-mini/
+laptop,Microsoft,Surface Laptop 5,https://www.microsoft.com/en-us/d/surface-laptop-5/8xn49v61s1bn
+laptop,Microsoft,Surface Laptop Studio 2,https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz

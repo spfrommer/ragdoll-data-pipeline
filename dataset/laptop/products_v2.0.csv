@@ -1,0 +1,59 @@
+Product,Brand,Model,URL
+laptop,Acer,Acer Aspire 5,https://www.acer.com/ac/en/US/content/model/NX.A1LAA.006
+laptop,Acer,Acer Swift 3,https://www.acer.com/ac/en/US/content/model/NX.ABRAA.004
+laptop,Acer,Acer Predator Helios 300,https://www.acer.com/ac/en/US/content/model/NH.QD1AA.004
+laptop,Asus,Asus ZenBook 14,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-14-UX425-11th-Gen-Intel/
+laptop,Asus,Asus ROG Strix G15,https://www.asus.com/Laptops/For-Gaming/ROG-Republic-of-Gamers/ROG-Strix-G15-2022/
+laptop,Asus,Asus TUF Gaming F17,https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/2022-ASUS-TUF-Gaming-F17/
+laptop,Dell,Dell XPS 13,https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps-13-9315-laptop
+laptop,Dell,Dell Inspiron 15,https://www.dell.com/en-us/shop/dell-laptops/inspiron-15-laptop/spd/inspiron-15-3511-laptop
+laptop,Dell,Dell G5 15,https://www.dell.com/en-us/shop/dell-laptops/dell-g5-15-gaming-laptop/spd/g-series-15-5500-laptop
+laptop,HP,HP Spectre x360,https://www.hp.com/us-en/shop/mdp/laptops/spectre-x360-211501--1
+laptop,HP,HP Envy 13,https://www.hp.com/us-en/shop/ConfigureView?storeId=10151&catalogId=10053&langId=-1&catEntryId=3074457345619754321&urlLangId=&quantity=1
+laptop,HP,HP Pavilion 15,https://www.hp.com/us-en/shop/pdp/hp-pavilion-laptop-15-eg2097nr
+laptop,Lenovo,Lenovo ThinkPad X1 Carbon,https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx/x1-carbon-gen-10/20ym0009us
+laptop,Lenovo,Lenovo Yoga Slim 7i,https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-(14%E2%80%9D-intel)/88yas701450
+laptop,Lenovo,Lenovo Legion 5 Pro,https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-5-pro-(16%E2%80%9D-amd)/82jy009hus
+laptop,Apple,MacBook Air,https://www.apple.com/shop/buy-mac/macbook-air
+laptop,Apple,MacBook Pro,https://www.apple.com/shop/buy-mac/macbook-pro
+laptop,MSI,MSI GS76 Stealth,https://us.msi.com/Laptop/GS76-Stealth-11UX
+laptop,MSI,MSI GT76 Titan,https://us.msi.com/Laptop/GT76-Titan-10SX
+laptop,MSI,MSI Prestige 14,https://us.msi.com/Laptop/Prestige-14-Evo-A11X
+laptop,Samsung,Samsung Galaxy Book Pro,https://www.samsung.com/us/computing/windows-laptops/galaxy-book-pro/galaxy-book-pro-360-15-6-inch-1tb-mystic-navy-np950qdb-ke3us/
+laptop,Samsung,Samsung Galaxy Book Flex2 Alpha,https://www.samsung.com/us/computing/windows-laptops/all-windows-laptops/galaxy-book-flex2-alpha-13-3-inch-qled-512gb-storage-16gb-ram-np730qda-ka3us/
+laptop,Samsung,Samsung Galaxy Book,https://www.samsung.com/us/computing/windows-laptops/galaxy-book/galaxy-book-15-6-inch-storage-512gb-mystic-blue-np750xda-ka3us/
+laptop,LG,LG Gram 16,https://www.lg.com/us/laptops/lg-16z90p-k.aas7u1-ultra-slim-laptop
+laptop,LG,LG Gram 17,https://www.lg.com/us/laptops/lg-17z90p-k.aab8u1-ultra-slim-laptop
+laptop,LG,LG Gram 14,https://www.lg.com/us/laptops/lg-14z90p-k.aab6u1-ultra-slim-laptop
+laptop,Razer,Razer Blade 15,https://www.razer.com/shop/pc/gaming-laptops/razer-blade
+laptop,Razer,Razer Blade Stealth 13,https://www.razer.com/shop/pc/gaming-laptops/razer-blade-stealth
+laptop,Razer,Razer Blade Pro 17,https://www.razer.com/shop/pc/gaming-laptops/razer-blade-pro
+laptop,Toshiba,Toshiba Tecra A50-J,https://us.dynabook.com/computers-tablets/laptops/Tecra/A50-J/A50-J-12E/
+laptop,Toshiba,Toshiba Portégé X30L-G,https://us.dynabook.com/computers-tablets/laptops/Portege/X30L-G/X30L-G-10K/
+laptop,Toshiba,Toshiba Dynabook E10-S,https://us.dynabook.com/computers-tablets/laptops/Dynabook-E10/Dynabook-E10-S/
+laptop,Fujitsu,Fujitsu Lifebook U9311X,https://www.shopfujitsu.com/EcommPartDetailServlet?partNumber=U9311XMAX1PEN01
+laptop,Fujitsu,Fujitsu Lifebook U7511,https://www.shopfujitsu.com/EcommPartDetailServlet?partNumber=U7511M45BMUS
+laptop,Fujitsu,Fujitsu Lifebook U7310,https://www.shopfujitsu.com/EcommPartDetailServlet?partNumber=U7310M15ABUS
+laptop,Sony,Sony VAIO SX14,https://us.vaio.com/products/vaio-sx14
+laptop,Sony,Sony VAIO Z flip,https://us.vaio.com/products/vaio-z-flip
+laptop,Sony,Sony VAIO S11,https://us.vaio.com/products/vaio-s11
+laptop,Panasonic,Panasonic Toughbook 33,https://na.panasonic.com/us/computers-tablets-handhelds/computers/2-1s/toughbook-33-12-detachable-laptop
+laptop,Panasonic,Panasonic Toughbook 55,https://na.panasonic.com/us/computers-tablets-handhelds/computers/laptops/toughbook-55-14-semi-rugged-laptop
+laptop,Panasonic,Panasonic Toughbook G2,https://na.panasonic.com/us/computers-tablets-handhelds/computers/2-1s/toughbook-g2-10-1-fully-rugged-2-1
+laptop,Clevo,Clevo NH70,http://clevo-computer.com/en/laptops-configurator/shell-clevo-laptops/laptop-clevo-nh70
+laptop,Clevo,Clevo PA71,http://clevo-computer.com/en/laptops-configurator/km1-pc-gaming-kaufen/performanc-lvl3/notebook-clevo-pa71
+laptop,Clevo,Clevo NH58,http://clevo-computer.com/en/laptops-configurator/km1-pc-gaming-kaufen/performanc-lvl1/laptop-clevo-nh58
+laptop,Alienware,Alienware x17,https://www.dell.com/en-us/shop/gaming-and-games/alienware-x17-gaming-laptop/spd/alienware-x17-r2-laptop
+laptop,Alienware,Alienware m15,https://www.dell.com/en-us/shop/gaming-and-games/alienware-m15-ryzen-edition-r5-gaming-laptop/spd/alienware-m15-r5-laptop
+laptop,Alienware,Alienware Area-51m,https://www.dell.com/en-us/shop/gaming-and-games/alienware-area-51m-r2-gaming-laptop/spd/alienware-17-area51m-laptop
+laptop,Gigabyte,Gigabyte AERO 15,https://www.gigabyte.com/Laptop/AERO-15--Intel-10th-Gen
+laptop,Gigabyte,Gigabyte AORUS 15G,https://www.gigabyte.com/Laptop/AORUS-15G--Intel-10th-Gen
+laptop,Gigabyte,Gigabyte G5,https://www.gigabyte.com/Laptop/G5--Intel-11th-Gen
+laptop,Huawei,Huawei MateBook X Pro,https://consumer.huawei.com/en/laptops/matebook-x-pro-2021/
+laptop,Huawei,Huawei MateBook 14,https://consumer.huawei.com/en/laptops/matebook-14-2021/
+laptop,Huawei,Huawei MateBook 13,https://consumer.huawei.com/en/laptops/matebook-13-2020/
+laptop,Purism,Purism Librem 14,https://puri.sm/products/librem-14/
+laptop,Purism,Purism Librem 13,https://puri.sm/products/librem-13-version-4/
+laptop,Purism,Purism Librem Mini,https://puri.sm/products/librem-mini/
+laptop,Microsoft,Surface Laptop 5,https://www.microsoft.com/en-us/d/surface-laptop-5/8xn49v61s1bn
+laptop,Microsoft,Surface Laptop Studio 2,https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz
