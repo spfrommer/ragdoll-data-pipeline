@@ -1,8 +1,8 @@
-This repository contains the dataset collection pipeline for the paper "Ranking Manipulation for Conversational Search Engines."
+This repository contains the dataset collection pipeline for the paper "Ranking Manipulation for Conversational Search Engines." This is distinct from our [main experimental repository](https://github.com/spfrommer/ranking_manipulation).
 
 The `dataset` directory contains the collected URLs for each product category (`latest.csv`) along with URLs from various stages of processing.
 
-The final dataset used in the experiments is a curated subset with exactly 8 pages per product category. Please see the [main experimental repository](https://github.com/spfrommer/ranking_manipulation) for access instructions.
+The final RAGDOLL dataset used in our experiments is a curated subset with exactly 8 pages per product category. Please find this subset in the [main experimental repository](https://github.com/spfrommer/ranking_manipulation). This repository strictly pertains to the data collection pipeline and the complete set of product URLs we have indexed. 
 
 
 Required packages:
