@@ -4,14 +4,16 @@ This repository contains the ***RAGDOLL*** (Retrieval-Augmented Generation Decei
 
 The ***RAGDOLL*** dataset is from the paper [*Ranking Manipulation for Conversational Search Engines*](https://arxiv.org/pdf/2406.03589) from Samuel Pfrommer, Yatong Bai, Tanmay Gautam, and Somayeh Sojoudi. For experiment code associated with this paper, please refer to [this repository](https://github.com/spfrommer/cse-ranking-manipulation).
 
-The dataset consists of 10 product categories (see [`dataset/categories.md`](https://github.com/spfrommer/ragdoll-data-pipeline/blob/main/dataset/categories.md)), with at least 8 brands for each category and 1-3 products per brand, summing to 1147 products in total. The evaluations in our paper are performed with a balanced subset with precicely 8 brands per category and 1 product per brand.
+The dataset consists of 10 product categories (see [`dataset/categories.md`](https://github.com/spfrommer/ragdoll-data-pipeline/blob/main/dataset/categories.md)), with at least 8 brands for each category and 1-3 products per brand, summing to 1147 products in total. The evaluations in our paper are performed with a balanced subset with precisely 8 brands per category and 1 product per brand.
 
 The URLs of the full 1147 products are shared at [`dataset/webpage_links`](https://github.com/spfrommer/ragdoll-data-pipeline/tree/main/dataset/webpages_links). We additionally share the downloaded webpages associated with the data subset used in our paper at [`dataset/final_dataset.zip`](https://github.com/spfrommer/ragdoll-data-pipeline/tree/main/dataset/final_dataset.zip) for reproducibility.
+
+**Update July 24:** RAGDOLL has been added to [Huggingface🤗 Datasets](https://huggingface.co/datasets/Bai-YT/RAGDOLL)
 
 
 ### Description
 
-The work [*Ranking Manipulation for Conversational Search Engines*](https://arxiv.org/pdf/2406.03589) investigates the impact of prompt injections on the ranking order of sources referenced by Large Language Model (LLM)-powered conversational search engines. It finds that in the absence of adversarial injections, different LLMs vary significantly in prioritizing product name, document content, and context position. Furthermore, jailbreaking techniques can reliably promote low-ranked products.
+The work [*Ranking Manipulation for Conversational Search Engines*](https://arxiv.org/pdf/2406.03589) investigates the impact of prompt injections on the ranking order of sources referenced by Large Language Model (LLM)-powered conversational search engines. It finds that in the absence of adversarial injections, different LLMs vary significantly in prioritizing product names, document contents, and context positions. Furthermore, jailbreaking techniques can reliably promote low-ranked products.
 
 For experimental evaluation, we collect a focused dataset of real-world consumer product websites and formalize conversational search ranking as an adversarial problem, and refer to it as the ***RAGDOLL*** dataset.
 
@@ -37,7 +39,7 @@ The downloading method is controlled with [`cc_fetch`](https://github.com/spfrom
 
 ### Collecting Your Own Dataset
 
-You can use this data collection pipeline to collect additional websites or additional product categories. To do so, modify [`dataset/categories`](https://github.com/spfrommer/cse-ranking-manipulation) accordingly and run the code with the following these instructions.
+You can use this data collection pipeline to collect additional websites or additional product categories. To do so, modify [`dataset/categories`](https://github.com/spfrommer/cse-ranking-manipulation) accordingly and run the code with the following instructions.
 
 Required packages:
 ```
