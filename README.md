@@ -1,6 +1,6 @@
 ## The *RAGDOLL* E-Commerce Webpage Dataset
 
-This repository contains the ***RAGDOLL*** (Retrieval-Augmented Generation Deceived Ordering via AdversariaL materiaLs) dataset as well as its LLM-automated collection pipeline.
+This repository contains the ***RAGDOLL*** (Retrieval-Augmented Generation Deceived Ordering via AdversariaL materiaLs) dataset collection pipeline. For the final curated dataset, please see [dataset.zip](https://github.com/spfrommer/cse-ranking-manipulation/blob/main/dataset.zip) in [the main repository](https://github.com/spfrommer/cse-ranking-manipulation).
 
 The ***RAGDOLL*** dataset is from the paper [*Ranking Manipulation for Conversational Search Engines*](https://arxiv.org/pdf/2406.03589) from Samuel Pfrommer, Yatong Bai, Tanmay Gautam, and Somayeh Sojoudi. For experiment code associated with this paper, please refer to [this repository](https://github.com/spfrommer/cse-ranking-manipulation).
 
